@@ -1,0 +1,23 @@
+# ============================================================
+#  MemeSol Wallet — Python Dependencies
+#  Install with:  pip install -r requirements.txt
+# ============================================================
+
+# ── External (must install) ──────────────────────────────────
+
+# Telegram Bot framework (async, v20+)
+python-telegram-bot==20.7
+
+# ── Built-in (no install needed — included with Python 3.12) ─
+# asyncio       — async/await runtime
+# hashlib       — hashing utilities
+# logging       — logging system
+# os            — OS interface
+# random        — random number generation
+# re            — regular expressions
+# sqlite3       — SQLite database
+# time          — time utilities
+# uuid          — unique ID generation
+# datetime      — date/time handling
+# functools     — higher-order functions (wraps)
+# typing        — type hints (Optional)
